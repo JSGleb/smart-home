@@ -7,6 +7,9 @@ import RegPage from "./components/RegPage/RegPage";
 import Projects from "./components/Projects/Projects";
 import About from "./components/About/About";
 
+
+
+
 function App() {
   const [user, setUser] = useState('');
   
